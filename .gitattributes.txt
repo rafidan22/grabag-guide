@@ -1,0 +1,20 @@
+# Menandai file Java sebagai kode utama
+*.java linguist-language=Java
+
+# Mengabaikan file build dan gradle
+/build/** linguist-vendored
+/app/build/** linguist-vendored
+.gradle/** linguist-vendored
+!*.gradle linguist-language=Groovy
+
+# Mengabaikan file resource yang biasanya tidak terhitung sebagai kode
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.gif linguist-vendored
+*.svg linguist-vendored
+*.xml linguist-vendored
+*.json linguist-vendored
+*.properties linguist-vendored
+
+# Menandai file manifest dan resource layout sebagai kode XML
+*.xml linguist-language=XML
