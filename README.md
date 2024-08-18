@@ -4,7 +4,9 @@ Skripsi "RANCANG BANGUN APLIKASI PENGENALAN OBJEK WISATA DI KECAMATAN GRABAG BER
 # Grabag Guide Application Analysis
 
 Penelitian/Aplikasi ini diharapkan memberikan manfaat bagi masyarakat dan wisatawan Kecamatan Grabag dengan mempermudah akses informasi tentang objek wisata. Selain itu, penelitian ini juga diharapkan dapat menjadi kontribusi bagi perkembangan teori dan pengetahuan di bidang pengembangan aplikasi pariwisata, serta menjadi referensi bagi mahasiswa dan peneliti masa depan.
-
+Bahasa yang digunakan: Java
+Software: Android Studio Dolphin (2021.3.1)
+Database: Firebase
 
 ## Abstract
 
