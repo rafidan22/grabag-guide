@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grabag Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="tipe">
+        <item>Wisata Alam</item>
+        <item>Wisata Sejarah</item>
+        <item>Wisata Budaya</item>
+        <item>Taman</item>
+        <item>Pasar</item>
+        <item>Penginapan</item>
+        <item>Wisata Kuliner</item>
+        <item>Wisata Religi</item>
+        <item>About</item>
+    </string-array>
+
+
+</resources>

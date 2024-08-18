@@ -1,0 +1,2 @@
+rootProject.name = "Grabag Guide"
+include ':app'

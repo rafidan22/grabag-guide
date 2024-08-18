@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "26270140561",
+    "project_id": "tourguide-cbc39",
+    "storage_bucket": "tourguide-cbc39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26270140561:android:cde79803f2935aba8a5730",
+        "android_client_info": {
+          "package_name": "com.project.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26270140561-dublusfi4td4a2n25cmds34h3git4gq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.tourguide",
+            "certificate_hash": "5920a1c036a274e543a4b0e53979a21062582a40"
+          }
+        },
+        {
+          "client_id": "26270140561-fr2jlg01bdib45239pejv7mt151l0hog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4RK4Wr7uZD9MVXZVPdhE2oBV25mQdm1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26270140561-fr2jlg01bdib45239pejv7mt151l0hog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

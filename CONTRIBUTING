@@ -1,0 +1,54 @@
+# Panduan Kontribusi
+
+Terima kasih telah mempertimbangkan untuk berkontribusi pada proyek ini! Panduan ini akan membantu Anda memahami bagaimana Anda dapat berkontribusi dan apa yang diharapkan dari Anda.
+
+## Cara Berkontribusi
+
+Ada beberapa cara untuk berkontribusi pada proyek ini:
+
+1. **Melaporkan Bug:**
+   - Jika Anda menemukan bug, silakan laporkan dengan membuat [Issue baru](https://github.com/username/repository/issues).
+   - Pastikan untuk menyertakan deskripsi yang jelas dan langkah-langkah untuk mereproduksi bug.
+   - Sertakan informasi lingkungan seperti sistem operasi, versi aplikasi, dan detail lainnya yang relevan.
+
+2. **Mengusulkan Fitur Baru:**
+   - Jika Anda memiliki ide untuk fitur baru, silakan buat [Issue baru](https://github.com/rafidan22/grabag-guide/issues) dan jelaskan mengapa fitur tersebut akan bermanfaat.
+   - Kami mendorong diskusi terbuka tentang ide-ide baru, jadi jangan ragu untuk berkomentar dan memberikan masukan pada proposal fitur lainnya.
+
+3. **Mengajukan Perbaikan Kode:**
+   - Jika Anda ingin memperbaiki bug atau menambahkan fitur baru, buat *fork* dari repositori ini dan buat *pull request* dari *branch* Anda.
+   - Pastikan untuk mengikuti [Code of Conduct](./CODE_OF_CONDUCT.md) saat berinteraksi dengan kontributor lain.
+   - Tambahkan deskripsi yang jelas dan ringkas dalam *pull request* Anda tentang perubahan apa yang Anda buat dan mengapa.
+
+4. **Menulis atau Memperbarui Dokumentasi:**
+   - Dokumentasi yang baik sangat penting untuk proyek ini. Anda dapat membantu dengan menulis atau memperbarui dokumentasi, termasuk README, panduan pengguna, atau komentar dalam kode.
+   - Buat *pull request* untuk perubahan dokumentasi dengan penjelasan yang jelas tentang apa yang telah Anda tambahkan atau ubah.
+
+## Pedoman Coding
+
+Untuk memastikan konsistensi dan kualitas kode, ikuti pedoman berikut saat menulis kode untuk proyek ini:
+
+- Gunakan gaya penulisan kode yang konsisten dengan kode yang ada.
+- Sertakan komentar yang jelas dan informatif di bagian kode yang kompleks atau penting.
+- Gunakan nama variabel dan fungsi yang deskriptif.
+- Pastikan kode Anda tidak mengandung kesalahan sintaks atau masalah lainnya dengan menjalankan tes lokal sebelum mengajukan *pull request*.
+
+## Proses Pull Request
+
+1. **Fork** repositori ini dan buat *branch* baru untuk perubahan Anda.
+2. Lakukan perubahan di *branch* Anda.
+3. Pastikan kode Anda telah diuji dengan baik.
+4. Buka *pull request* dari *branch* Anda ke *branch* utama repositori ini.
+5. Tim kami akan meninjau *pull request* Anda dan memberikan umpan balik atau menggabungkannya ke *branch* utama jika sudah siap.
+
+## Komunikasi
+
+Gunakan halaman *Issues* dan *Pull Requests* untuk komunikasi terkait kontribusi Anda. Kami menghargai diskusi terbuka dan umpan balik yang konstruktif. Ingatlah untuk selalu berperilaku sesuai dengan [Code of Conduct](./CODE_OF_CONDUCT.md) dalam setiap interaksi.
+
+## Lisensi
+
+Dengan berkontribusi pada proyek ini, Anda menyetujui bahwa kontribusi Anda akan dilisensikan di bawah lisensi yang sama dengan repositori ini.
+
+---
+
+Terima kasih atas kontribusi Anda! Kami menghargai setiap bentuk bantuan yang Anda berikan untuk membuat proyek ini lebih baik.
